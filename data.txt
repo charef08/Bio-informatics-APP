@@ -1,0 +1,91 @@
+1--La chaine d'ADN : 
+     AACCATACTGGTT
+2--LES FREQUENCES DES BASES : 
+     {'A': 4, 'C': 3, 'G': 2, 'T': 4}
+3--LE TAUX DE GC : 
+     38.46153846153847
+4--TRADUCTION : ADN ==> ARN  : 
+     AACCAUACUGGUU
+5--L'EPISSAGE DE CET ADN EST : 
+     AHU
+6--LA SEQUENCE DE PROTEINE : 
+     AHTG
+7--LA FREQUENCE DES CODONS  : 
+     {'AAC': 1, 'CAU': 1, 'ACU': 1, 'GGU': 1}
+8--LA MASSE DE LA PROTEINE EST  : 
+     366.16516
+9--LA LISTE DES MOTIFS RECHERCHES  : 
+     {'TA': [6], 'CT': [8]}
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+1--La chaine d'ADN : 
+     CCCGCCACGAAAA
+2--LES FREQUENCES DES BASES : 
+     {'A': 5, 'C': 6, 'G': 2, 'T': 0}
+3--LE TAUX DE GC : 
+     61.53846153846154
+4--TRADUCTION : ADN ==> ARN  : 
+     CCCGCCACGAAAA
+5--L'EPISSAGE DE CET ADN EST : 
+     PHG
+6--LA SEQUENCE DE PROTEINE : 
+     PATL
+7--LA FREQUENCE DES CODONS  : 
+     {'CCC': 1, 'GCC': 1, 'ACG': 1, 'AAA': 1}
+8--LA MASSE DE LA PROTEINE EST  : 
+     382.22161000000006
+9--LA LISTE DES MOTIFS RECHERCHES  : 
+     {'CG': [3, 8]}
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+1--La chaine d'ADN : 
+     CAGCCGTGCGTTA
+2--LES FREQUENCES DES BASES : 
+     {'A': 2, 'C': 4, 'G': 4, 'T': 3}
+3--LE TAUX DE GC : 
+     61.53846153846154
+4--TRADUCTION : ADN ==> ARN  : 
+     CAGCCGUGCGUUA
+5--L'EPISSAGE DE CET ADN EST : 
+     HV
+6--LA SEQUENCE DE PROTEINE : 
+     GPCV
+7--LA FREQUENCE DES CODONS  : 
+     {'CAG': 1, 'CCG': 1, 'UGC': 1, 'GUU': 1}
+8--LA MASSE DE LA PROTEINE EST  : 
+     356.15182000000004
+9--LA LISTE DES MOTIFS RECHERCHES  : 
+     {'TA': [12], 'CG': [5, 9]}
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+1--La chaine d'ADN : 
+     CGACCAATAACTC
+2--LES FREQUENCES DES BASES : 
+     {'A': 5, 'C': 5, 'G': 1, 'T': 2}
+3--LE TAUX DE GC : 
+     46.15384615384615
+4--TRADUCTION : ADN ==> ARN  : 
+     CGACCAAUAACUC
+5--L'EPISSAGE DE CET ADN EST : 
+     APA
+6--LA SEQUENCE DE PROTEINE : 
+     APIT
+7--LA FREQUENCE DES CODONS  : 
+     {'CGA': 1, 'CCA': 1, 'AUA': 1, 'ACU': 1}
+8--LA MASSE DE LA PROTEINE EST  : 
+     382.22161000000006
+9--LA LISTE DES MOTIFS RECHERCHES  : 
+     {'TA': [8], 'CG': [1], 'TAA': [8], 'CT': [11]}
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+LE CONSENSUS  :  
+     CACCCAACAAATA
+LA MATRICE PROFIL : 
+     A[1, 2, 1, 0, 1, 1, 3, 0, 1, 2, 1, 1, 2]
+     C[3, 1, 2, 3, 3, 1, 0, 2, 1, 0, 1, 0, 1]
+     T[0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 3, 1]
+     G[0, 1, 1, 1, 0, 1, 0, 1, 1, 2, 1, 0, 0]
